@@ -11,6 +11,6 @@
      {
          $this->assertEquals(0, soma());
      }
-  }
+  } 
 
 ?>
